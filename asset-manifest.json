@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/botomat/static/css/main.5f361e03.chunk.css",
+    "main.js": "/botomat/static/js/main.fc25003f.chunk.js",
+    "main.js.map": "/botomat/static/js/main.fc25003f.chunk.js.map",
+    "runtime-main.js": "/botomat/static/js/runtime-main.4bd1c21b.js",
+    "runtime-main.js.map": "/botomat/static/js/runtime-main.4bd1c21b.js.map",
+    "static/js/2.ff1f6295.chunk.js": "/botomat/static/js/2.ff1f6295.chunk.js",
+    "static/js/2.ff1f6295.chunk.js.map": "/botomat/static/js/2.ff1f6295.chunk.js.map",
+    "index.html": "/botomat/index.html",
+    "precache-manifest.3b3b755bf970a2e30520c6cec14b9aa8.js": "/botomat/precache-manifest.3b3b755bf970a2e30520c6cec14b9aa8.js",
+    "service-worker.js": "/botomat/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/botomat/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ff1f6295.chunk.js.LICENSE.txt": "/botomat/static/js/2.ff1f6295.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/botomat/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bd1c21b.js",
+    "static/js/2.ff1f6295.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.fc25003f.chunk.js"
+  ]
+}
