@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "83d6bf57120c8fd1154c741c156865fa",
+    "revision": "bb29533c9a1b28659fa88ac439057a7f",
     "url": "/botomat/index.html"
   },
   {
