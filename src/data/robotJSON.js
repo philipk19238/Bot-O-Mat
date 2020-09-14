@@ -49,7 +49,7 @@ const imageLoc = {
     QUADRUPEDAL: "https://github.com/philipk19238/Bot-O-Mat/blob/master/src/data/images/quad.PNG?raw=true",
     ARACHNID: "https://github.com/philipk19238/Bot-O-Mat/blob/master/src/data/images/arachnid.PNG?raw=true",
     RADIAL: "https://github.com/philipk19238/Bot-O-Mat/blob/master/src/data/images/air.PNG?raw=true",
-    AERONAUTICAL: "https://github.com/philipk19238/Bot-O-Mat/blob/master/src/data/images/air.PNG?raw=true"
+    AERONAUTICAL: "https://github.com/philipk19238/Bot-O-Mat/blob/master/src/data/images/radial.PNG?raw=true"
 }
 
 module.exports = { robotTasks, robotTypes, imageLoc }
