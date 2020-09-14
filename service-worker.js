@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/botomat/precache-manifest.d969d5c441e5ea3832d3538aeece98ef.js"
+  "/botomat/precache-manifest.6144b50a024240d5380b248d8792f9b5.js"
 );
 
 self.addEventListener('message', (event) => {
