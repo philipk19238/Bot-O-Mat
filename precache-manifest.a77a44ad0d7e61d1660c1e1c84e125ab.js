@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "07dcb3d8ed2fc95e3d8f423c6b32f488",
+    "revision": "83d6bf57120c8fd1154c741c156865fa",
     "url": "/botomat/index.html"
   },
   {
-    "revision": "e08d02ef5106b02deb2f",
+    "revision": "6a828091c737a496e62f",
     "url": "/botomat/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/botomat/static/js/2.ff1f6295.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e08d02ef5106b02deb2f",
-    "url": "/botomat/static/js/main.751d831b.chunk.js"
+    "revision": "6a828091c737a496e62f",
+    "url": "/botomat/static/js/main.7386c8e6.chunk.js"
   },
   {
     "revision": "3b6eb2e722b280d48f71",
