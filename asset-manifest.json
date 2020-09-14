@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/botomat/static/css/main.5f361e03.chunk.css",
-    "main.js": "/botomat/static/js/main.02149364.chunk.js",
-    "main.js.map": "/botomat/static/js/main.02149364.chunk.js.map",
+    "main.js": "/botomat/static/js/main.751d831b.chunk.js",
+    "main.js.map": "/botomat/static/js/main.751d831b.chunk.js.map",
     "runtime-main.js": "/botomat/static/js/runtime-main.4bd1c21b.js",
     "runtime-main.js.map": "/botomat/static/js/runtime-main.4bd1c21b.js.map",
     "static/js/2.ff1f6295.chunk.js": "/botomat/static/js/2.ff1f6295.chunk.js",
     "static/js/2.ff1f6295.chunk.js.map": "/botomat/static/js/2.ff1f6295.chunk.js.map",
     "index.html": "/botomat/index.html",
-    "precache-manifest.78e0d9894e204ae46123208fb2d9bc5a.js": "/botomat/precache-manifest.78e0d9894e204ae46123208fb2d9bc5a.js",
+    "precache-manifest.29fef7e6e9ddf55dbb3f411ce0b1978e.js": "/botomat/precache-manifest.29fef7e6e9ddf55dbb3f411ce0b1978e.js",
     "service-worker.js": "/botomat/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/botomat/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.ff1f6295.chunk.js.LICENSE.txt": "/botomat/static/js/2.ff1f6295.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.4bd1c21b.js",
     "static/js/2.ff1f6295.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.02149364.chunk.js"
+    "static/js/main.751d831b.chunk.js"
   ]
 }
