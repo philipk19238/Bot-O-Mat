@@ -29,7 +29,6 @@ export class Robot extends React.Component {
     renderState() {
         var dic = this.state.progress;
         var stateArray = Object.keys(dic).map(function (key) { return [key, dic[key]] });
-        stateArray.sort(function (a, b) { return a[1] - b[1] || a[0] > b[0] });
         return stateArray
     }
     render() {
