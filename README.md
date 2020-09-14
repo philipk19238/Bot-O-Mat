@@ -2,6 +2,8 @@
 
 The project is created using React. I chose this platform because of React's ability to client-side render the HTML along with the asynchronous functionality of Javascript.
 
+Demo: https://philipk19238.github.io/botomat/
+
 ## Overview
 Use any language to complete this challenge. The implementation is up to you: it can be a command-line application or have a graphical interface.
 
